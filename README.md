@@ -34,7 +34,7 @@ You can call an API from your terminal to check what your app will "see" when it
 
 <img width="600" height="800" alt="image" src="https://github.com/pxr687/fix_my_API/blob/dee7997c15eff6fa76240f2ee2d1063c4d606954/curl.jpg" />
 
-<img width="600" height="800" alt="image" src="https://github.com/pxr687/fix_my_API/blob/3409e0915bd083cec820eefd1f38ba6a3c255bc4/curl_2.jpgg" />
+<img width="600" height="800" alt="image" src="https://github.com/pxr687/fix_my_API/blob/3409e0915bd083cec820eefd1f38ba6a3c255bc4/curl_2.jpg" />
 
 **HINT 2**:
 You can also look at what your app will "see" after it sends the API call to `zenquotes`, using this link: https://zenquotes.io/api/random
