@@ -27,3 +27,6 @@ To fix your app, you will need to change some code to use the new API... **DO TH
 Let me know if you get it working - if you cannot, then I will show you the solution at the end of the session:
 
 <img width="600" height="800" alt="image" src="https://github.com/pxr687/fix_my_API/blob/d3fea776d5493a3b5426e30988f101da57869a2f/working.jpg" />
+
+**HINT**:
+You can look at what your app will "see" after it sends the API call, using this link: https://zenquotes.io/api/random
