@@ -28,5 +28,13 @@ Let me know if you get it working - if you cannot, then I will show you the solu
 
 <img width="600" height="800" alt="image" src="https://github.com/pxr687/fix_my_API/blob/d3fea776d5493a3b5426e30988f101da57869a2f/working.jpg" />
 
-**HINT**:
-You can look at what your app will "see" after it sends the API call, using this link: https://zenquotes.io/api/random
+**HINT 1**:
+You can call an API from your terminal to check what your app will "see" when it calls the API. If using a `bash` terminal, you can use:
+`curl -v https://api.quotable.io/`
+
+<img width="600" height="800" alt="image" src="https://github.com/pxr687/fix_my_API/blob/dee7997c15eff6fa76240f2ee2d1063c4d606954/curl.jpg" />
+
+<img width="600" height="800" alt="image" src="https://github.com/pxr687/fix_my_API/blob/3409e0915bd083cec820eefd1f38ba6a3c255bc4/curl_2.jpgg" />
+
+**HINT 2**:
+You can also look at what your app will "see" after it sends the API call to `zenquotes`, using this link: https://zenquotes.io/api/random
