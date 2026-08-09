@@ -22,8 +22,8 @@ To fix this, you may want to look at: https://zenquotes.io
 
 ...this is another API which will get a random quote. 
 
-You will need to change some code in your app... **DO THIS WITHOUT USING AN AI**...
+To fix the app, you will need to change some code to use the new API... **DO THIS WITHOUT USING AN AI**...
 
-Let me know if you get it working - if not I will show you the solution at the end of the session:
+Let me know if you get it working - if you cannot I will show you the solution at the end of the session:
 
 <img width="600" height="800" alt="image" src="https://github.com/pxr687/fix_my_API/blob/d3fea776d5493a3b5426e30988f101da57869a2f/working.jpg" />
