@@ -16,7 +16,7 @@ Click on the `Issues` tab - this is where users/develops can say "there is a pro
 
 Can you see what the problem is?:
 
-<img width="600" height="800" alt="image" src="https://github.com/pxr687/fix_my_API/blob/78659fc625c3f509259aae1efcca6e44e144606e/quotable_issues_2.jpg" />
+<img width="600" height="800" alt="image" src="https://github.com/pxr687/fix_my_API/blob/96d046a2a7898ce6c8998ad463978d163e4cc462/quotable_issues_2.jpg" />
 
 To fix this, you may want to look at: https://zenquotes.io 
 
