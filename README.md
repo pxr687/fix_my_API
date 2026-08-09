@@ -30,7 +30,7 @@ Let me know if you get it working - if you cannot, then I will show you the solu
 
 **HINT 1**:
 You can call an API from your terminal to check what your app will "see" when it calls the API. If using a `bash` terminal, you can use:
-`curl -v https://api.quotable.io/`
+`curl`:
 
 <img width="600" height="800" alt="image" src="https://github.com/pxr687/fix_my_API/blob/dee7997c15eff6fa76240f2ee2d1063c4d606954/curl.jpg" />
 
