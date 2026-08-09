@@ -1,6 +1,6 @@
 # fix_my_API
 
-When you run your app, then register and login, you probably see this fallback error when you try to get a random quote:
+When you run your app, after you register and login, you probably see this fallback error when you try to get a random quote:
 
 <img width="600" height="800" alt="image" src="https://github.com/pxr687/fix_my_API/blob/8e749a743aa3fd5021724d7d767f0bf6a8278ec9/fallback.jpg" />
 
