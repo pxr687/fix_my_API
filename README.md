@@ -22,7 +22,7 @@ To fix this, you may want to look at: https://zenquotes.io
 
 ...this is another API which can get a random quote. 
 
-To fix your app, you will need to change some code to use the new API... **DO THIS WITHOUT USING AN AI**...
+To fix your app - so that it displays a random quote - you will need to alter your code so that the app uses the new API... **DO THIS WITHOUT USING AI**...
 
 Let me know if you get it working - if you cannot, then I will show you the solution at the end of the session:
 
