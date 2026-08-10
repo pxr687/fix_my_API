@@ -10,7 +10,7 @@ At the moment, our app is "talking" to the `quotable` API:
 
 That API is hosted on Github, you can look at the code on this link: https://github.com/lukepeavey/quotable 
 
-When you are looking at the `quotable` Github, click on the `Issues` tab - this is where users/develops can say "there is a problem with this code..."
+When you are looking at the `quotable` Github, click on the `Issues` tab - this is where users/developers can say "there is a problem with this code..."
 
 <img width="600" height="800" alt="image" src="https://github.com/pxr687/fix_my_API/blob/78659fc625c3f509259aae1efcca6e44e144606e/quotable_issues.jpg" />
 
